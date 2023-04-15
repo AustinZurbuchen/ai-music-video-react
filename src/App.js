@@ -1,6 +1,6 @@
-import logo from "./logo.svg";
+import React from "react";
 import MusicSearch from "./components/MusicSearch";
-import "./App.css";
+import "./App.scss";
 
 function App() {
   return (

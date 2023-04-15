@@ -1,0 +1,21 @@
+.MusicSearch {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  height: 100vh;
+  width: 100vw;
+}
+
+.TitleInput {
+  margin: 10px;
+}
+
+.ArtistInput {
+  margin: 10px;
+}
+
+.InputButton {
+  margin: 10px;
+}
